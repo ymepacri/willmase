@@ -1,0 +1,2 @@
+def sakut():
+    print("yo")
